@@ -1,10 +1,7 @@
 import { View, Text } from 'react-native'
 import React from 'react'
+import OnboardingScreen from '@/screens/onboarding/onboarding.screen'
 
 export default function index() {
-  return (
-    <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Text style={{color: "red"}}>index</Text>
-    </View>
-  )
+  return <OnboardingScreen />
 }
