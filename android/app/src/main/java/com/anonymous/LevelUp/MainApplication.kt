@@ -1,4 +1,4 @@
-package com.anonymous.LevelUp
+package com.levelup
 
 import android.app.Application
 import android.content.res.Configuration
