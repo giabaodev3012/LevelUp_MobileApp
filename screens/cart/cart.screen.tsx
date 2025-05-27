@@ -153,7 +153,7 @@ export default function CartScreen() {
                 fontSize: 15,
                 marginTop: 5,
                 color: "#575757",
-                fontFamily: "Nunito_400Regular",
+                fontFamily: "Nunito_400Regular", // Adjusted font family
               }}
             >
               Thank you for your purchase!
